@@ -49,3 +49,6 @@ div = a/b;
 
 // git add . / git commit -m "18/09/2024 Zetina"
 // git push
+
+
+console.log(nombre,pi,edad,msj,num,estudiante,suma,resta,multi,div);
